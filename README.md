@@ -20,7 +20,7 @@ Each person, each week will record the following data:
 Topics: Big O Notation, Analyzing Performance of Arrays and Objects (Sections 1-3) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  
 Prior Knowledge: 4   
 Interest level: 6.5  
-Growth: 3 . 
+Growth: 3   
 Activities: Video Lectures   
 Learnings:  
   - What big O notation actually means. Approaching this calculation by simply counting the number of operations inside a function or scope, including variable assignments. 
