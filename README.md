@@ -17,20 +17,27 @@ Each person, each week will record the following data:
 
 #### Matt
 
-Topics: Big O Notation, Analyzing Performance of Arrays and Objects (Sections 1-3) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  
-Prior Knowledge: 4   
-Interest level: 6.5  
-Growth: 3   
-Activities: Video Lectures   
-Learnings:  
+**Topics**: Big O Notation, Analyzing Performance of Arrays and Objects (Sections 1-3) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  
+**Prior Knowledge**: 4   
+**Interest level**: 6.5  
+**Growth**: 3   
+**Activities**: Video Lectures   
+**Learnings**:  
   - What big O notation actually means. Approaching this calculation by simply counting the number of operations inside a function or scope, including variable assignments. 
   - The idea of space complexity was entirely new. 
   - Using Javascript snippets inside of Chrome is super powerful! Great tidbit. 
   
 #### Andrey
 
+**Topics**: Big O Notation, Analyzing Performance of Arrays and Objects (Sections 1-3) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  
+**Prior Knowledge**:     
+**Interest level**:    
+**Growth**:     
+**Activities**:     
+**Learnings**:   
+
   
-#### Superpower Scale for Reference and Fun :)
+### Superpower Scale for Reference and Fun :)
 Ex. 0/10 = No superpower :(  
 Ex. 1/10 = Glow in the dark.  
 Ex. 2/10 = Hover only 1ft above the ground.  
