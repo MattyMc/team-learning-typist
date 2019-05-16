@@ -44,7 +44,7 @@ Each person, each week will record the following data:
 
 #### Matt
 
-**Topics**: Problem solving approaches, patterns and problems (Sections 4-6) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/). Additionaly, lots of learning around AWS Lambda.
+**Topics**: Problem solving approaches, patterns and problems (Sections 4-6) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/). Additionaly, lots of learning around AWS Lambda.  
 **Prior Knowledge**: 4   
 **Interest level**: 6.5  
 **Growth**: 8.5   
