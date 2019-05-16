@@ -36,6 +36,31 @@ Each person, each week will record the following data:
 **Activities**:     
 **Learnings**:   
 
+
+### Week 2 - Thursday, May 9th.
+
+#### Matt
+
+**Topics**: Problem solving approaches, patterns and problems (Sections 4-6) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/). Additionaly, lots of learning around AWS Lambda.
+**Prior Knowledge**: 4   
+**Interest level**: 6.5  
+**Growth**: 8.5   
+**Activities**: Video Lectures, Coding Exercises   
+**Learnings**:  
+  - Strategy: Understand the problem (edge cases, assumptions, etc), explore examples, break it down (comment the steps), solve/simplify the problem, look back and refactor.
+  - Common problem solving patterns, like frequency counters, sliding windows, duel pointers. These were super helpful to see formally. 
+  - Some of the programming challenges kicked my ass. In particular, `minSubArrayLen` and `findLongestSubString`.
+  - How AWS Lambda works. Built a few tutorial apps, created a simulator for local development that emulates S3 events, learned about the pros/cons of usage. Also, explored Ruby Jets framework, and the JS serverless framework for building serverless functions.  
+  
+#### Andrey
+
+**Topics**: Problem solving approaches, patterns and problems (Sections 4-6) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).    
+**Prior Knowledge**:     
+**Interest level**:    
+**Growth**:     
+**Activities**:     
+**Learnings**:   
+
   
 ### Superpower Scale for Reference and Fun :)
 Ex. 0/10 = No superpower :(  
