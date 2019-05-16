@@ -30,11 +30,14 @@ Each person, each week will record the following data:
 #### Andrey
 
 **Topics**: Big O Notation, Analyzing Performance of Arrays and Objects (Sections 1-3) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  
-**Prior Knowledge**:     
-**Interest level**:    
-**Growth**:     
-**Activities**:     
-**Learnings**:   
+**Prior Knowledge**: 4  
+**Interest level**: 10  
+**Growth**: 1  
+**Activities**: Video Lectures  
+**Learnings**:  
+  - Big O notation being used for space complexity
+  - Taking into account that inserting at beginning of array requires re-indexing of the array
+  - Google chrome snippets
 
 
 ### Week 2 - Thursday, May 9th.
