@@ -64,6 +64,33 @@ Each person, each week will record the following data:
 **Activities**:     
 **Learnings**:   
 
+### Week 4 - Thursday, May 16th.
+
+*Week off due to urgent build.*
+
+### Week 5 - Thursday, May 23rd.
+
+#### Matt
+
+**Topics**: Recursion (Sections 7, half of 8, half of 9) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/). From Section 8, Recursion Problem Set, exercises 10, 11, 12. From Section 9, Bonus CHALLENGING Recursion Problems, exercises 15, 16, 17, 18.
+**Prior Knowledge**: 6   
+**Interest level**:  
+**Growth**: 
+**Activities**: Video Lectures, Coding Exercises   
+**Learnings**:  
+  -  
+  -  
+  -  
+  
+#### Andrey
+
+**Topics**: Recursion (Sections 7, half of 8, half of 9) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/). From Section 8, Recursion Problem Set, exercises 10, 11, 12. From Section 9, Bonus CHALLENGING Recursion Problems, exercises 15, 16, 17, 18.   
+**Prior Knowledge**:     
+**Interest level**:    
+**Growth**:     
+**Activities**:     
+**Learnings**:   
+
   
 ### Superpower Scale for Reference and Fun :)
 Ex. 0/10 = No superpower :(  
