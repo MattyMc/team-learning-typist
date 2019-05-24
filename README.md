@@ -58,11 +58,14 @@ Each person, each week will record the following data:
 #### Andrey
 
 **Topics**: Problem solving approaches, patterns and problems (Sections 4-6) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).    
-**Prior Knowledge**:     
-**Interest level**:    
-**Growth**:     
-**Activities**:     
+**Prior Knowledge**: 5    
+**Interest level**: 7    
+**Growth**: 3     
+**Activities**: Video Lectures, Coding Exercises    
 **Learnings**:   
+  - Learned of more cases for "sliding window" and "multiple pointers" approach
+  - Usefulness of "frequency counter" pattern
+  - Good set of coding problems (especially liked `averagePair`)
 
 ### Week 4 - Thursday, May 16th.
 
