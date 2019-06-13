@@ -78,7 +78,7 @@ Each person, each week will record the following data:
 **Topics**: Recursion (Sections 7, half of 8, half of 9) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/). From Section 8, Recursion Problem Set, exercises 10, 11, 12. From Section 9, Bonus CHALLENGING Recursion Problems, exercises 15, 16, 17, 18.
 **Prior Knowledge**: 6   
 **Interest level**:  
-**Growth**: 
+**Growth**:  
 **Activities**: Video Lectures, Coding Exercises   
 **Learnings**:  
   -  
@@ -88,11 +88,14 @@ Each person, each week will record the following data:
 #### Andrey
 
 **Topics**: Recursion (Sections 7, half of 8, half of 9) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/). From Section 8, Recursion Problem Set, exercises 10, 11, 12. From Section 9, Bonus CHALLENGING Recursion Problems, exercises 15, 16, 17, 18.   
-**Prior Knowledge**:     
-**Interest level**:    
-**Growth**:     
-**Activities**:     
+**Prior Knowledge**: 6   
+**Interest level**: 10   
+**Growth**: 2     
+**Activities**: Video Lectures, Coding Exercises    
 **Learnings**:   
+  - More use cases for the helper recursive pattern
+  - Math study that Matt mentioned (re: doing different math problems one after another, rather than drilling same type of problem at once). `Rohrer et al (2019) "A Randomized Controlled Trial of Interleaved Mathematics Practice"`
+  - Javascript has bad support for tail-end recursion. Current work-around is to use the 'trampolining' technique
 
   
 ### Superpower Scale for Reference and Fun :)
