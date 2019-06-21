@@ -97,7 +97,83 @@ Each person, each week will record the following data:
   - Math study that Matt mentioned (re: doing different math problems one after another, rather than drilling same type of problem at once). `Rohrer et al (2019) "A Randomized Controlled Trial of Interleaved Mathematics Practice"`
   - Javascript has bad support for tail-end recursion. Current work-around is to use the 'trampolining' technique
 
+### Week 6 - Wednesday, June 5.
+
+#### Matt
+
+**Topics**: Sorting algorithms (Second halves of Sections 8 and 9; Sections 10 to 15) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  Finish Section 8 Recursion Problem Set, exercises 13 and 14. From Section 9, exercises 19 to 23
+**Prior Knowledge**:    
+**Interest level**:  
+**Growth**:  
+**Activities**: Video Lectures (Sorting algorithms) and Coding Exercises (Sections 8 and 9 only)  
+**Learnings**:  
+  -  
+  -  
+  -  
   
+#### Andrey
+
+**Topics**: Sorting algorithms (Second halves of Sections 8 and 9; Sections 10 to 15) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  Finish Section 8 Recursion Problem Set, exercises 13 and 14. From Section 9, exercises 19 to 23
+**Prior Knowledge**: 6   
+**Interest level**: 8   
+**Growth**: 3     
+**Activities**: Video Lectures (Sorting algorithms) and Coding Exercises (Sections 8 and 9 only)  
+**Learnings**:
+  - default Javascript `array.sort()` behaviour with numbers (treats numbers as strings)
+  - Insertion sort is an `online algorithm` - can process new data piece-by-piece
+
+### Week 7 - Thursday, June 13.
+
+#### Matt
+
+**Topics**: Sorting Algorithms - Quick sort and radix sort (Sections 16 to 17) and Data structures (Sections 18 to 19) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).
+**Prior Knowledge**:    
+**Interest level**:  
+**Growth**:  
+**Activities**: Video Lectures  
+**Learnings**:  
+  -  
+  -  
+  -  
+  
+#### Andrey
+
+**Topics**: Sorting Algorithms - Quick sort and radix sort (Sections 16 to 17) and Data structures (Sections 18 to 19) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).
+**Prior Knowledge**: 7  
+**Interest level**: 10  
+**Growth**: 2   
+**Activities**: Video Lectures  
+**Learnings**:
+  - n log n is mathematically the lowest we can get from a search algorithm ([source](<https://en.wikipedia.org/wiki/Comparison_sort>))
+  - radix sort `k`  in O notation is not actually a constant due to how computers work
+
+
+### Week 8 - Thursday, June 20.
+
+#### Matt
+
+**Topics**: Data structures - Singly and double linked lists, Stacks + Queues, Binary search tree (Sections 20 to 22) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).
+**Prior Knowledge**:  
+**Interest level**:  
+**Growth**:  
+**Activities**: Video Lectures and Coding exercises  
+**Learnings**:  
+  -  
+  -  
+  -  
+  
+#### Andrey
+
+**Topics**: Data structures - Singly and double linked lists, Stacks + Queues, Binary search tree (Sections 20 to 22) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).
+**Prior Knowledge**: 6  
+**Interest level**: 10  
+**Growth**: 3  
+**Activities**: Video Lectures and Coding exercises  
+**Learnings**:
+  - reminder of how cool syntax trees are
+  - Reversing a single linked list is a very popular interview question
+  - There is no "great" mnemonic for unshift vs shift
+
 ### Superpower Scale for Reference and Fun :)
 Ex. 0/10 = No superpower :(  
 Ex. 1/10 = Glow in the dark.  
