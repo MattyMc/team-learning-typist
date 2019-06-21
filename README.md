@@ -75,15 +75,13 @@ Each person, each week will record the following data:
 
 #### Matt
 
-**Topics**: Recursion (Sections 7, half of 8, half of 9) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/). From Section 8, Recursion Problem Set, exercises 10, 11, 12. From Section 9, Bonus CHALLENGING Recursion Problems, exercises 15, 16, 17, 18.
+**Topics**: Recursion (Sections 7, half of 8, half of 9) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/). From Section 8, Recursion Problem Set, exercises 10, 11, 12. From Section 9, Bonus CHALLENGING Recursion Problems, exercises 15, 16, 17, 18.  
 **Prior Knowledge**: 6   
-**Interest level**:  
-**Growth**:  
+**Interest level**: __  
+**Growth**: __  
 **Activities**: Video Lectures, Coding Exercises   
 **Learnings**:  
-  -  
-  -  
-  -  
+  - __  
   
 #### Andrey
 
@@ -101,19 +99,17 @@ Each person, each week will record the following data:
 
 #### Matt
 
-**Topics**: Sorting algorithms (Second halves of Sections 8 and 9; Sections 10 to 15) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  Finish Section 8 Recursion Problem Set, exercises 13 and 14. From Section 9, exercises 19 to 23
-**Prior Knowledge**:    
-**Interest level**:  
-**Growth**:  
+**Topics**: Sorting algorithms (Second halves of Sections 8 and 9; Sections 10 to 15) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  Finish Section 8 Recursion Problem Set, exercises 13 and 14. From Section 9, exercises 19 to 23  
+**Prior Knowledge**: __  
+**Interest level**: __  
+**Growth**: __  
 **Activities**: Video Lectures (Sorting algorithms) and Coding Exercises (Sections 8 and 9 only)  
 **Learnings**:  
-  -  
-  -  
-  -  
+  - __  
   
 #### Andrey
 
-**Topics**: Sorting algorithms (Second halves of Sections 8 and 9; Sections 10 to 15) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  Finish Section 8 Recursion Problem Set, exercises 13 and 14. From Section 9, exercises 19 to 23
+**Topics**: Sorting algorithms (Second halves of Sections 8 and 9; Sections 10 to 15) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  Finish Section 8 Recursion Problem Set, exercises 13 and 14. From Section 9, exercises 19 to 23  
 **Prior Knowledge**: 6   
 **Interest level**: 8   
 **Growth**: 3     
@@ -126,19 +122,17 @@ Each person, each week will record the following data:
 
 #### Matt
 
-**Topics**: Sorting Algorithms - Quick sort and radix sort (Sections 16 to 17) and Data structures (Sections 18 to 19) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).
-**Prior Knowledge**:    
-**Interest level**:  
-**Growth**:  
+**Topics**: Sorting Algorithms - Quick sort and radix sort (Sections 16 to 17) and Data structures (Sections 18 to 19) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  
+**Prior Knowledge**: __  
+**Interest level**: __  
+**Growth**: __  
 **Activities**: Video Lectures  
 **Learnings**:  
-  -  
-  -  
-  -  
+  - __  
   
 #### Andrey
 
-**Topics**: Sorting Algorithms - Quick sort and radix sort (Sections 16 to 17) and Data structures (Sections 18 to 19) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).
+**Topics**: Sorting Algorithms - Quick sort and radix sort (Sections 16 to 17) and Data structures (Sections 18 to 19) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  
 **Prior Knowledge**: 7  
 **Interest level**: 10  
 **Growth**: 2   
@@ -152,19 +146,17 @@ Each person, each week will record the following data:
 
 #### Matt
 
-**Topics**: Data structures - Singly and double linked lists, Stacks + Queues, Binary search tree (Sections 20 to 22) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).
-**Prior Knowledge**:  
-**Interest level**:  
-**Growth**:  
+**Topics**: Data structures - Singly and double linked lists, Stacks + Queues, Binary search tree (Sections 20 to 22) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  
+**Prior Knowledge**: __  
+**Interest level**: __  
+**Growth**: __  
 **Activities**: Video Lectures and Coding exercises  
-**Learnings**:  
-  -  
-  -  
-  -  
+**Learnings**: __  
+  - __  
   
 #### Andrey
 
-**Topics**: Data structures - Singly and double linked lists, Stacks + Queues, Binary search tree (Sections 20 to 22) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).
+**Topics**: Data structures - Singly and double linked lists, Stacks + Queues, Binary search tree (Sections 20 to 22) from Udemy Course, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/).  
 **Prior Knowledge**: 6  
 **Interest level**: 10  
 **Growth**: 3  
